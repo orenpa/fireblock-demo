@@ -3,7 +3,6 @@
 ## Overview
 
 The Fireblocks Demo Application is a full-stack web application that simulates a simple cryptocurrency wallet system. Users can register, log in, view their wallet balances, and perform transactions with other users using supported cryptocurrencies (e.g., BTC, ETH, ADA).
-(This is a Desktop app, not designed for mobile)
 
 ### Key Features
 
@@ -14,7 +13,7 @@ The Fireblocks Demo Application is a full-stack web application that simulates a
 - Frontend built with Next.js and Tailwind CSS
 - Backend built with Node.js, Express, and TypeORM (MySQL database)
 - Server-Side Rendering (SSR) used in Profile and Dashboard pages for secure authentication and data fetching
-- The application is designed for desktop use only and is not designed for mobile devices
+- Designed for desktop use only; not designed for mobile devices
 
 ---
 
@@ -43,6 +42,19 @@ backend/
 │   └── route             # API route definitions
 └── package.json          # Dependencies and scripts
 ```
+
+### Database Tables and Relations
+
+- **User Table**: Stores user information (id, username, password, walletId).
+- **Wallet Table**: Linked to users, stores wallet addresses and key pairs.
+- **Currency Balance Table**: Holds currency balances per wallet (currency, amount, walletId).
+- **Transaction Table**: Logs all transactions between users (amount, currency, fromUserId, toUserId, signature).
+
+**Relations**
+
+- One-to-One between User and Wallet (`user.walletId -> wallet.id`).
+- One-to-Many between Wallet and Currency Balances (`wallet.id -> currency_balance.walletId`).
+- Many-to-One for Transactions (`transaction.fromUserId` and `transaction.toUserId` reference `user.id`).
 
 ### How to Run the Backend
 
