@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "lib": ["es5", "es6"],
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "outDir": "./build",
+    "esModuleInterop": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@model/*": ["model/*"],
+      "@model": ["model"],
+      "@controller/*": ["controller/*"],
+      "@controller": ["controller"],
+      "@service": ["service"],
+      "@service/*": ["service/*"],
+      "@route/*": ["route/*"],
+      "@route": ["route"],
+      "@middleware/*": ["middleware/*"],
+      "@middleware": ["middleware"],
+      "@util/*": ["utils/*"],
+      "@util": ["utils"],
+      "src/*": ["*"]
+    }
+  },
+  "include": ["src/**/*", "jest.config.js", "jest.setup.js"],
+  "exclude": ["node_modules"]
+}

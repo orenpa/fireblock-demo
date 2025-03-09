@@ -1,0 +1,752 @@
+2025-03-07 19:52:21 [<DataSource>] error: Error during Data Source initialization
+2025-03-07 19:52:21 [<DataSource>] info: Retrying in 2 seconds... (9 attempts left)
+2025-03-07 19:52:23 [<DataSource>] error: Error during Data Source initialization
+2025-03-07 19:52:23 [<DataSource>] info: Retrying in 2 seconds... (8 attempts left)
+2025-03-07 19:52:25 [<DataSource>] error: Error during Data Source initialization
+2025-03-07 19:52:25 [<DataSource>] info: Retrying in 2 seconds... (7 attempts left)
+2025-03-07 19:52:27 [<DataSource>] error: Error during Data Source initialization
+2025-03-07 19:52:27 [<DataSource>] info: Retrying in 2 seconds... (6 attempts left)
+2025-03-07 20:05:12 [<DataSource>] error: Error during Data Source initialization Access denied for user 'root'@'localhost' (using password: YES)
+2025-03-07 20:05:12 [<DataSource>] info: Retrying in 2 seconds... (9 attempts left)
+2025-03-07 20:05:14 [<DataSource>] error: Error during Data Source initialization Access denied for user 'root'@'localhost' (using password: YES)
+2025-03-07 20:05:14 [<DataSource>] info: Retrying in 2 seconds... (8 attempts left)
+2025-03-07 20:05:16 [<DataSource>] error: Error during Data Source initialization Access denied for user 'root'@'localhost' (using password: YES)
+2025-03-07 20:05:16 [<DataSource>] info: Retrying in 2 seconds... (7 attempts left)
+2025-03-07 20:06:20 [<DataSource>] error: Error during Data Source initialization Unknown database 'retail_demo'
+2025-03-07 20:06:20 [<DataSource>] info: Retrying in 2 seconds... (9 attempts left)
+2025-03-07 20:06:22 [<DataSource>] error: Error during Data Source initialization Unknown database 'retail_demo'
+2025-03-07 20:06:22 [<DataSource>] info: Retrying in 2 seconds... (8 attempts left)
+2025-03-07 20:06:24 [<DataSource>] error: Error during Data Source initialization Unknown database 'retail_demo'
+2025-03-07 20:06:24 [<DataSource>] info: Retrying in 2 seconds... (7 attempts left)
+2025-03-07 20:06:26 [<DataSource>] error: Error during Data Source initialization Unknown database 'retail_demo'
+2025-03-07 20:06:26 [<DataSource>] info: Retrying in 2 seconds... (6 attempts left)
+2025-03-07 20:09:37 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-07 20:09:37 [<DataSource>] info: Database 'fireblocks' created successfully.
+2025-03-07 20:09:37 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 15:09:43 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 15:09:43 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 15:09:43 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 15:23:02 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 15:23:08 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 15:23:08 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 15:23:10 [<Transaction Service>] info: Fetching transactions for wallet ID: 12
+2025-03-08 15:23:11 [<Transaction Service>] info: Fetching transactions for wallet ID: 121
+2025-03-08 15:23:14 [<Transaction Service>] info: Fetching transactions for wallet ID: 1212
+2025-03-08 15:23:15 [<Transaction Service>] info: Fetching transactions for wallet ID: 121
+2025-03-08 15:23:15 [<Transaction Service>] info: Fetching transactions for wallet ID: 12
+2025-03-08 15:23:15 [<Transaction Service>] info: Fetching transactions for wallet ID: 121
+2025-03-08 15:23:15 [<Transaction Service>] info: Fetching transactions for wallet ID: 12
+2025-03-08 15:23:16 [<Transaction Service>] info: Fetching transactions for wallet ID: 122
+2025-03-08 15:23:17 [<Transaction Service>] info: Fetching transactions for wallet ID: 12
+2025-03-08 15:23:17 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 15:25:03 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 15:25:03 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 15:25:03 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 15:25:06 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 15:25:06 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 15:25:06 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 15:25:11 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 15:25:11 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 15:25:11 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 15:25:34 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 15:25:34 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 15:25:34 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 15:25:37 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 15:25:37 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 15:25:37 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 15:25:51 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 15:25:51 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 15:25:51 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 15:26:08 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 15:26:08 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 15:26:08 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 16:05:54 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 16:05:54 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 16:05:54 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 16:05:54 [<DataSource>] info: Retrying in 2 seconds... (9 attempts left)
+2025-03-08 16:05:57 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 16:05:57 [<DataSource>] info: Retrying in 2 seconds... (8 attempts left)
+2025-03-08 16:05:59 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 16:05:59 [<DataSource>] info: Retrying in 2 seconds... (7 attempts left)
+2025-03-08 16:06:01 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 16:06:01 [<DataSource>] info: Retrying in 2 seconds... (6 attempts left)
+2025-03-08 16:06:03 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 16:06:03 [<DataSource>] info: Retrying in 2 seconds... (5 attempts left)
+2025-03-08 18:33:07 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 18:33:07 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 18:33:08 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 18:34:08 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 18:34:08 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 18:34:08 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 18:34:56 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 18:34:56 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 18:34:56 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 18:38:52 [<Auth Service>] info: User registered: orentest
+2025-03-08 18:38:52 [<Auth Controller>] info: User registered successfully: orentest
+2025-03-08 18:51:45 [<Auth Controller>] error: Registration failed: Username already exists
+2025-03-08 18:52:26 [<Auth Controller>] error: Registration failed: Username already exists
+2025-03-08 18:52:33 [<Auth Service>] info: User registered: orentest1
+2025-03-08 18:52:33 [<Auth Controller>] info: User registered successfully: orentest1
+2025-03-08 18:52:33 [<Auth Service>] info: User logged in: orentest1
+2025-03-08 18:52:33 [<Auth Controller>] info: User logged in: orentest1
+2025-03-08 18:55:41 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 18:55:41 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 18:55:41 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 18:55:59 [<Auth Controller>] error: Login failed: Invalid credentials
+2025-03-08 18:56:03 [<Auth Service>] info: User logged in: orentest1
+2025-03-08 18:56:03 [<Auth Controller>] info: User logged in: orentest1
+2025-03-08 19:00:34 [<Auth Service>] info: User logged in: orentest1
+2025-03-08 19:00:34 [<Auth Controller>] info: User logged in: orentest1
+2025-03-08 19:03:34 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:03:34 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:03:34 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:07:04 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:07:04 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:07:04 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:07:08 [<Auth Service>] info: User logged in: orentest1
+2025-03-08 19:07:08 [<Auth Controller>] info: User logged in: orentest1
+2025-03-08 19:08:49 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:08:49 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:08:49 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:08:53 [<Auth Controller>] error: Login failed: Invalid credentials
+2025-03-08 19:08:59 [<Auth Service>] info: User registered: orentest
+2025-03-08 19:08:59 [<Auth Controller>] info: User registered successfully: orentest
+2025-03-08 19:08:59 [<Auth Service>] info: User logged in: orentest
+2025-03-08 19:08:59 [<Auth Controller>] info: User logged in: orentest
+2025-03-08 19:11:26 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:11:26 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:11:26 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:12:13 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:12:13 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:12:13 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:13:05 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:13:05 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:13:05 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:13:10 [<Auth Controller>] error: Login failed: secretOrPrivateKey must have a value
+2025-03-08 19:14:38 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:14:38 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:14:38 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:15:03 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:15:03 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:15:03 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:15:54 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:15:54 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:15:54 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:16:03 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:16:03 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:16:03 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:16:07 [<Auth Service>] info: User logged in: orentest
+2025-03-08 19:16:07 [<Auth Controller>] info: User logged in: orentest
+2025-03-08 19:16:08 [<Transaction Controller>] error: Error fetching transactions: User or wallet not found
+2025-03-08 19:31:31 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:31:31 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:31:31 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:31:31 [<DataSource>] info: Retrying in 2 seconds... (9 attempts left)
+2025-03-08 19:31:33 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:31:33 [<DataSource>] info: Retrying in 2 seconds... (8 attempts left)
+2025-03-08 19:31:35 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:31:35 [<DataSource>] info: Retrying in 2 seconds... (7 attempts left)
+2025-03-08 19:31:38 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:31:38 [<DataSource>] info: Retrying in 2 seconds... (6 attempts left)
+2025-03-08 19:31:59 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:31:59 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:31:59 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:31:59 [<DataSource>] info: Retrying in 2 seconds... (9 attempts left)
+2025-03-08 19:32:01 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:32:01 [<DataSource>] info: Retrying in 2 seconds... (8 attempts left)
+2025-03-08 19:32:03 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:32:03 [<DataSource>] info: Retrying in 2 seconds... (7 attempts left)
+2025-03-08 19:32:05 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:32:05 [<DataSource>] info: Retrying in 2 seconds... (6 attempts left)
+2025-03-08 19:32:07 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:32:07 [<DataSource>] info: Retrying in 2 seconds... (5 attempts left)
+2025-03-08 19:32:15 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:32:15 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:32:15 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:32:15 [<DataSource>] info: Retrying in 2 seconds... (9 attempts left)
+2025-03-08 19:32:17 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:32:17 [<DataSource>] info: Retrying in 2 seconds... (8 attempts left)
+2025-03-08 19:32:19 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:32:19 [<DataSource>] info: Retrying in 2 seconds... (7 attempts left)
+2025-03-08 19:32:21 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:32:21 [<DataSource>] info: Retrying in 2 seconds... (6 attempts left)
+2025-03-08 19:32:25 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:32:25 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:32:25 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:32:25 [<DataSource>] info: Retrying in 2 seconds... (9 attempts left)
+2025-03-08 19:32:27 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:32:27 [<DataSource>] info: Retrying in 2 seconds... (8 attempts left)
+2025-03-08 19:37:41 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:37:41 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:37:41 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:37:41 [<DataSource>] info: Retrying in 2 seconds... (9 attempts left)
+2025-03-08 19:37:43 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:37:43 [<DataSource>] info: Retrying in 2 seconds... (8 attempts left)
+2025-03-08 19:37:45 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:37:45 [<DataSource>] info: Retrying in 2 seconds... (7 attempts left)
+2025-03-08 19:37:47 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:37:47 [<DataSource>] info: Retrying in 2 seconds... (6 attempts left)
+2025-03-08 19:37:49 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:37:49 [<DataSource>] info: Retrying in 2 seconds... (5 attempts left)
+2025-03-08 19:37:51 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:37:51 [<DataSource>] info: Retrying in 2 seconds... (4 attempts left)
+2025-03-08 19:37:53 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:37:53 [<DataSource>] info: Retrying in 2 seconds... (3 attempts left)
+2025-03-08 19:37:55 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:37:55 [<DataSource>] info: Retrying in 2 seconds... (2 attempts left)
+2025-03-08 19:37:57 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:37:57 [<DataSource>] info: Retrying in 2 seconds... (1 attempts left)
+2025-03-08 19:37:59 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:37:59 [<DataSource>] info: Retrying in 2 seconds... (0 attempts left)
+2025-03-08 19:38:52 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:38:52 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:38:52 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:38:52 [<DataSource>] info: Retrying in 2 seconds... (9 attempts left)
+2025-03-08 19:38:54 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:38:54 [<DataSource>] info: Retrying in 2 seconds... (8 attempts left)
+2025-03-08 19:38:56 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:38:56 [<DataSource>] info: Retrying in 2 seconds... (7 attempts left)
+2025-03-08 19:38:58 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:38:58 [<DataSource>] info: Retrying in 2 seconds... (6 attempts left)
+2025-03-08 19:39:00 [<DataSource>] error: Error during Data Source initialization:
+2025-03-08 19:39:00 [<DataSource>] info: Retrying in 2 seconds... (5 attempts left)
+2025-03-08 19:39:11 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:39:11 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:39:11 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:40:04 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:40:04 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:40:04 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:40:19 [<Auth Service>] info: User registered: orentest with wallet ID: 1
+2025-03-08 19:40:19 [<Auth Controller>] info: User registered successfully: orentest
+2025-03-08 19:40:19 [<Auth Service>] info: User logged in: orentest
+2025-03-08 19:40:19 [<Auth Controller>] info: User logged in: orentest
+2025-03-08 19:40:20 [<Transaction Controller>] error: Error fetching transactions: User or wallet not found
+2025-03-08 19:43:32 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:43:32 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:43:32 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:44:33 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:44:33 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:44:34 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:44:41 [<Auth Controller>] error: Login failed: Invalid credentials or wallet not found
+2025-03-08 19:44:44 [<Auth Service>] info: User registered: orentest with wallet ID: 2
+2025-03-08 19:44:44 [<Auth Controller>] info: User registered successfully: orentest
+2025-03-08 19:44:44 [<Auth Service>] info: User logged in: orentest
+2025-03-08 19:44:44 [<Auth Controller>] info: User logged in: orentest
+2025-03-08 19:44:45 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 19:48:57 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 19:48:57 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 19:48:57 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 19:49:11 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 19:49:11 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 19:49:25 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 19:57:22 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 19:57:23 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 19:59:02 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-08 19:59:02 [<User Service>] info: Fetching user by ID: 2
+2025-03-08 19:59:05 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-08 19:59:05 [<User Service>] info: Fetching user by ID: 2
+2025-03-08 20:01:02 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-08 20:01:02 [<User Service>] info: Fetching user by ID: 2
+2025-03-08 20:02:15 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:02:15 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:02:15 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:02:27 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-08 20:02:27 [<User Service>] info: Fetching user by ID: 2
+2025-03-08 20:05:07 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 20:05:07 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 20:12:38 [<Auth Controller>] error: Login failed: Invalid credentials or wallet not found
+2025-03-08 20:12:42 [<Auth Service>] info: User registered: orentest1 with wallet ID: 3
+2025-03-08 20:12:42 [<Auth Controller>] info: User registered successfully: orentest1
+2025-03-08 20:12:43 [<Auth Service>] info: User logged in: orentest1
+2025-03-08 20:12:43 [<Auth Controller>] info: User logged in: orentest1
+2025-03-08 20:12:43 [<Transaction Service>] info: Fetching transactions for wallet ID: 3
+2025-03-08 20:14:55 [<User Controller>] info: Fetching profile for user ID: 3
+2025-03-08 20:14:55 [<User Service>] info: Fetching user by ID: 3
+2025-03-08 20:14:55 [<User Controller>] info: Fetching profile for user ID: 3
+2025-03-08 20:14:55 [<User Service>] info: Fetching user by ID: 3
+2025-03-08 20:14:57 [<Transaction Service>] info: Fetching transactions for wallet ID: 3
+2025-03-08 20:14:57 [<Transaction Service>] info: Fetching transactions for wallet ID: 3
+2025-03-08 20:15:06 [<User Controller>] info: Fetching profile for user ID: 3
+2025-03-08 20:15:06 [<User Service>] info: Fetching user by ID: 3
+2025-03-08 20:15:06 [<User Controller>] info: Fetching profile for user ID: 3
+2025-03-08 20:15:06 [<User Service>] info: Fetching user by ID: 3
+2025-03-08 20:16:56 [<Transaction Service>] info: Fetching transactions for wallet ID: 3
+2025-03-08 20:16:56 [<Transaction Service>] info: Fetching transactions for wallet ID: 3
+2025-03-08 20:18:56 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:18:56 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:18:56 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:19:12 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:19:12 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:19:12 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:19:47 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:19:47 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:19:47 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:20:13 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:20:13 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:20:13 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:20:23 [<Auth Controller>] error: Login failed: Invalid credentials or wallet not found
+2025-03-08 20:20:26 [<Auth Service>] info: User registered: orentest1 with wallet ID: 1
+2025-03-08 20:20:26 [<Auth Controller>] info: User registered successfully: orentest1
+2025-03-08 20:20:26 [<Auth Service>] info: User logged in: orentest1
+2025-03-08 20:20:26 [<Auth Controller>] info: User logged in: orentest1
+2025-03-08 20:20:27 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:20:30 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:20:30 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:20:30 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:20:30 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:20:39 [<Auth Controller>] error: Login failed: Invalid credentials or wallet not found
+2025-03-08 20:20:42 [<Auth Service>] info: User registered: orentest with wallet ID: 2
+2025-03-08 20:20:42 [<Auth Controller>] info: User registered successfully: orentest
+2025-03-08 20:20:42 [<Auth Service>] info: User logged in: orentest
+2025-03-08 20:20:42 [<Auth Controller>] info: User logged in: orentest
+2025-03-08 20:20:43 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 20:20:46 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-08 20:20:46 [<User Service>] info: Fetching user by ID: 2
+2025-03-08 20:20:46 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-08 20:20:46 [<User Service>] info: Fetching user by ID: 2
+2025-03-08 20:20:54 [<Auth Service>] info: User logged in: orentest1
+2025-03-08 20:20:54 [<Auth Controller>] info: User logged in: orentest1
+2025-03-08 20:20:55 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:21:01 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:21:01 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:21:01 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:21:01 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:21:04 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:21:04 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:21:08 [<Transaction Controller>] info: Initiating transfer of 2 BTC from user ID 1 to wallet wallet-2
+2025-03-08 20:21:08 [<Transaction Service>] info: Transferring 2 BTC from wallet 1 to wallet 2
+2025-03-08 20:21:08 [<Transaction Controller>] error: Error transferring funds: error:1E08010C:DECODER routines::unsupported
+2025-03-08 20:22:12 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:22:12 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:22:12 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:23:38 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:23:38 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:23:38 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:23:50 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:23:50 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:23:50 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:23:55 [<Auth Controller>] error: Registration failed: Data too long for column 'publicKey' at row 1
+2025-03-08 20:24:52 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:24:52 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:24:52 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:24:57 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:24:57 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:24:57 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:25:01 [<Auth Controller>] error: Registration failed: Username already exists
+2025-03-08 20:25:21 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:25:21 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:25:21 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:25:25 [<Auth Service>] info: User registered: orentest with wallet ID: 1
+2025-03-08 20:25:25 [<Auth Controller>] info: User registered successfully: orentest
+2025-03-08 20:25:25 [<Auth Service>] info: User logged in: orentest
+2025-03-08 20:25:25 [<Auth Controller>] info: User logged in: orentest
+2025-03-08 20:25:26 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:25:28 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:25:28 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:25:28 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:25:28 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:25:34 [<Auth Controller>] error: Login failed: Invalid credentials or wallet not found
+2025-03-08 20:25:38 [<Auth Service>] info: User registered: orentest1 with wallet ID: 2
+2025-03-08 20:25:38 [<Auth Controller>] info: User registered successfully: orentest1
+2025-03-08 20:25:38 [<Auth Service>] info: User logged in: orentest1
+2025-03-08 20:25:38 [<Auth Controller>] info: User logged in: orentest1
+2025-03-08 20:25:39 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 20:25:40 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-08 20:25:40 [<User Service>] info: Fetching user by ID: 2
+2025-03-08 20:25:40 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-08 20:25:40 [<User Service>] info: Fetching user by ID: 2
+2025-03-08 20:25:42 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 20:25:42 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 20:25:46 [<Transaction Controller>] info: Initiating transfer of 2 BTC from user ID 2 to wallet wallet-1
+2025-03-08 20:25:46 [<Transaction Service>] info: Transferring 2 BTC from wallet 2 to wallet 1
+2025-03-08 20:25:46 [<Transaction Service>] error: Error generating signature: error:1E08010C:DECODER routines::unsupported
+2025-03-08 20:25:46 [<Transaction Controller>] error: Error transferring funds: Failed to sign the transaction
+2025-03-08 20:27:07 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:27:07 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:27:07 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:27:16 [<Transaction Controller>] info: Initiating transfer of 2 BTC from user ID 2 to wallet wallet-1
+2025-03-08 20:27:16 [<Transaction Service>] info: Transferring 2 BTC from wallet 2 to wallet 1
+2025-03-08 20:27:16 [<Transaction Service>] info: Generated transaction signature: 972d64734621c35fbdda0ecaecf4365fc0eec3a0117fc8b369607089ab9454207056caf1e29fedf4e75ca12959248dfc8727b1939ccc81644d75cad2a2461a750542e9c9de497fccb60525435a1456270a0defe9e01bfd81d1b4c47c8e90d4d46fe10afd32f0906cd62ee2d6a510b911b2d2b1bec4f2ca5683538e6f3359e422d6ea04d71d1b99c5e64e57482cb028e48c637b65f4dabc336e4c649df72be2dd855b271efa7219f7c8706cf13af55317bf76b627910536ef170b87ce4144eb36026cdeaacf54a2fd3e8ae2c4419cb5678003f395bd61b31a5acf3f1c643f2dad62b6ff77406e7237341854d90396ec0d07bf139900a72c54ef4df0069cf69627
+2025-03-08 20:27:16 [<Transaction Controller>] error: Error transferring funds: Data too long for column 'signature' at row 1
+2025-03-08 20:27:48 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:27:48 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:27:48 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:27:51 [<Transaction Controller>] info: Initiating transfer of 2 BTC from user ID 2 to wallet wallet-1
+2025-03-08 20:27:51 [<Transaction Service>] info: Transferring 2 BTC from wallet 2 to wallet 1
+2025-03-08 20:27:51 [<Transaction Service>] info: Generated transaction signature: 972d64734621c35fbdda0ecaecf4365fc0eec3a0117fc8b369607089ab9454207056caf1e29fedf4e75ca12959248dfc8727b1939ccc81644d75cad2a2461a750542e9c9de497fccb60525435a1456270a0defe9e01bfd81d1b4c47c8e90d4d46fe10afd32f0906cd62ee2d6a510b911b2d2b1bec4f2ca5683538e6f3359e422d6ea04d71d1b99c5e64e57482cb028e48c637b65f4dabc336e4c649df72be2dd855b271efa7219f7c8706cf13af55317bf76b627910536ef170b87ce4144eb36026cdeaacf54a2fd3e8ae2c4419cb5678003f395bd61b31a5acf3f1c643f2dad62b6ff77406e7237341854d90396ec0d07bf139900a72c54ef4df0069cf69627
+2025-03-08 20:28:05 [<Auth Service>] info: User logged in: orentest
+2025-03-08 20:28:05 [<Auth Controller>] info: User logged in: orentest
+2025-03-08 20:28:06 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:28:23 [<Transaction Controller>] info: Initiating transfer of 2 ETH from user ID 1 to wallet wallet-1
+2025-03-08 20:28:23 [<Transaction Service>] info: Transferring 2 ETH from wallet 1 to wallet 1
+2025-03-08 20:28:23 [<Transaction Service>] info: Generated transaction signature: 1dea52875999a3408de6512eb886221e57fb4a1f0e513ea509c64b7339441e4e9b33e36b41fe14455526aebf8750be72481c33fa92f8dc66c0079d351406e344cfbd28d40397f087573ffc70340a8324cba718636a8d8d5b2876a52c893d6e367f0320017608d8248a7c2276f354c394778587344ec2560d3badcde35f1d466e8b8e1ce7bb86cdb5470afcfc8739c05b9dfe163f85d31cba756e5229d2abe24923aeac6d8e1063b0fa3751327d949f6bb251115a2c77ca8a4fb7d3978ff83c50b7b5db292714b99f9e55ba6314927a74be8f6fb456c9508bbe8f88de37beb4d81c197e1d40eb9e1c4d9eb12ac9aaacc475f2809b476bc73fa7ecae4661fbeadb
+2025-03-08 20:28:34 [<Transaction Controller>] info: Initiating transfer of 4.5 ADA from user ID 1 to wallet wallet-1
+2025-03-08 20:28:34 [<Transaction Service>] info: Transferring 4.5 ADA from wallet 1 to wallet 1
+2025-03-08 20:28:34 [<Transaction Controller>] error: Error transferring funds: Incorrect decimal value: '97.525814694.5' for column 'amount' at row 1
+2025-03-08 20:28:42 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:28:42 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:28:42 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:28:42 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:28:44 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:28:44 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:28:58 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:28:58 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:28:58 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:28:58 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:29:00 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:29:00 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:29:05 [<Transaction Controller>] info: Initiating transfer of 3 BTC from user ID 1 to wallet wallet-2
+2025-03-08 20:29:05 [<Transaction Service>] info: Transferring 3 BTC from wallet 1 to wallet 2
+2025-03-08 20:29:05 [<Transaction Service>] info: Generated transaction signature: 9b71003339f58cd3bc1f016f5d63e8a3eef767732308129a8d3923575a8a178760e1836753333d5f11f054e708a5512736958db14a27ee70add416596137bf5f7249fc7340cf9e3245c3b7092aad8e17d652acb72010a05fbd2648900acdfbc5433f06760e38ff12fbdcd380ac888fa7f74a7c61b44bce7b9ac2ead4c20c108df5244ee6ed3db5c411892aeb362a037d57bb94d1f41c383cddf7d9669152e35d61dd1c074c7664abb57faa1e22a7a5591f97086a64fa1cc48d5e5694d91a84f4aa2211b9985ecd5745141e9401934fe23ba8f75fbf6ffb18d013a1f14715896644fa18f44d723ab9c5dbf17b2a11a3c2b2060aafad553cf9982c149c4c6a6853
+2025-03-08 20:29:32 [<Auth Service>] info: User registered: orentest2 with wallet ID: 3
+2025-03-08 20:29:32 [<Auth Controller>] info: User registered successfully: orentest2
+2025-03-08 20:29:32 [<Auth Service>] info: User logged in: orentest2
+2025-03-08 20:29:32 [<Auth Controller>] info: User logged in: orentest2
+2025-03-08 20:29:33 [<Transaction Service>] info: Fetching transactions for wallet ID: 3
+2025-03-08 20:29:41 [<Transaction Controller>] info: Initiating transfer of 10 BTC from user ID 3 to wallet wallet-1
+2025-03-08 20:29:41 [<Transaction Service>] info: Transferring 10 BTC from wallet 3 to wallet 1
+2025-03-08 20:29:41 [<Transaction Service>] info: Generated transaction signature: a10f7c6847b92473bcab72f7511e05e45a7775497e0da9edde29584292222b58a87331166cb3b3bef401f8f560027a7692a483baf6d2e43886be23ce8249a4968e96e8f1555a14620bdc87d2026485a7ebffe7b9087720f4b42c3da48c166b879425acbbb39c57a5091125fa1e0f456dd0679eb7ce190ea33b81e17611680492e1d30916ed31cf8f36daf3130b9cececa44320f612562550b751ddfb37843ca6c428cb2f2754e2e1c45634fcbdc7767707405c03237d8626b5204aa1ba4973264447b9e13568d78e01f94404be672a72c4793df88ce671e92158ae20c50548649d1ae09ef4039da3f435c90fee050c552580bc5635f2dc6027c10b2a9d0ea93f
+2025-03-08 20:29:43 [<User Controller>] info: Fetching profile for user ID: 3
+2025-03-08 20:29:43 [<User Service>] info: Fetching user by ID: 3
+2025-03-08 20:29:43 [<User Controller>] info: Fetching profile for user ID: 3
+2025-03-08 20:29:43 [<User Service>] info: Fetching user by ID: 3
+2025-03-08 20:29:52 [<Auth Service>] info: User logged in: orentest1
+2025-03-08 20:29:52 [<Auth Controller>] info: User logged in: orentest1
+2025-03-08 20:29:53 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-08 20:30:00 [<Auth Service>] info: User logged in: orentest
+2025-03-08 20:30:00 [<Auth Controller>] info: User logged in: orentest
+2025-03-08 20:30:01 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:33:54 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:33:54 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:33:54 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:35:36 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-08 20:35:36 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-08 20:35:37 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-08 20:36:30 [<Auth Service>] info: User registered: lihi with wallet ID: 4
+2025-03-08 20:36:30 [<Auth Controller>] info: User registered successfully: lihi
+2025-03-08 20:36:30 [<Auth Service>] info: User logged in: lihi
+2025-03-08 20:36:30 [<Auth Controller>] info: User logged in: lihi
+2025-03-08 20:36:31 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-08 20:36:31 [<User Service>] info: Fetching user by ID: 4
+2025-03-08 20:36:31 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-08 20:36:37 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-08 20:36:37 [<User Service>] info: Fetching user by ID: 4
+2025-03-08 20:36:37 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-08 20:36:37 [<User Service>] info: Fetching user by ID: 4
+2025-03-08 20:36:47 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-08 20:36:47 [<User Service>] info: Fetching user by ID: 4
+2025-03-08 20:36:47 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-08 20:36:47 [<User Service>] info: Fetching user by ID: 4
+2025-03-08 20:36:47 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-08 20:36:47 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-08 20:36:56 [<Transaction Controller>] info: Initiating transfer of 4 BTC from user ID 4 to wallet wallet-1
+2025-03-08 20:36:56 [<Transaction Service>] info: Transferring 4 BTC from wallet 4 to wallet 1
+2025-03-08 20:36:56 [<Transaction Service>] info: Generated transaction signature: 6b1880e1bfeb1b95215bded47205cee851d90c2b37482c5f40611f5cc23421f51f61dcfe36766f5a453538028ee680b0908728bc099cd2faac3443d12ba908a900528fef319846a533a2dbd05ccc9a80ba812578ff146b6c97b0a1d3f7e0cb8697b997177d4d2ed34516f65ff79fe8af8c52e5cd17d153e5347f735e0bb1a45806e78ddad7716d2194ea87c3a188c8339eb664638b3235fa6f453a79a960acee23f231a2dca13ceb63b7e5470bc0e78d06438f34613e5dae3ddda0ac28739b8aa9d0f1ed429d15718642b77d83ebf6a0093ea17dd20ee651359add86fc02795ed2c3583d066cca8a46d143f47508562d93ab6fee5365eed053bf53fab850a37d
+2025-03-08 20:37:18 [<Auth Service>] info: User logged in: orentest
+2025-03-08 20:37:18 [<Auth Controller>] info: User logged in: orentest
+2025-03-08 20:37:18 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:37:19 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:37:19 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:37:29 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:37:29 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:37:29 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:37:29 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:37:34 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:37:34 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:37:34 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:37:34 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:37:37 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:37:37 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:37:38 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:37:38 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:37:38 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:37:38 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:38:53 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:38:53 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:38:53 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:38:53 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:38:54 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:38:54 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:38:54 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:38:54 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:38:54 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:38:54 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:39:00 [<Transaction Controller>] info: Initiating transfer of 4 BTC from user ID 1 to wallet wallet-2
+2025-03-08 20:39:00 [<Transaction Service>] info: Transferring 4 BTC from wallet 1 to wallet 2
+2025-03-08 20:39:00 [<Transaction Service>] info: Generated transaction signature: 44b58f7499aab39906b0aedcf24140a6b3993c1af06bbd4b7ef5ae574db18fbb665aa28118515ac1818ebbde95d0ac22ad27d0429a5120691e0eacb4a31b68dbfdc7767d7d20b62f2d6fd8c925b29502f5a9d6d3eac1254f8d56546c425af71fbab84ecf8e764dadabf9f2e3fa1fc5d413168c92db549338e98e85a83311c0ae37102566519f77ab6bb84adda281187ba8166b738388ad5e7b707dbb2c4a45d7ff269a3b1d2ab550c26455ad49c973c24b56b70027e5b049063b0ff583e6940041dcf253ccc388eb7417fba47bdd7397a0bc13f2810e7dd67cb4e274e610a046149822f2617279c559354ab807d8587e2604372bf46d7043d708d1b60f57a7c9
+2025-03-08 20:39:01 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:39:01 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:39:01 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:39:01 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:39:02 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:39:02 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:39:02 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:39:02 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:39:02 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:39:02 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:39:13 [<Auth Service>] info: User logged in: lihi
+2025-03-08 20:39:13 [<Auth Controller>] info: User logged in: lihi
+2025-03-08 20:39:14 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-08 20:39:14 [<User Service>] info: Fetching user by ID: 4
+2025-03-08 20:39:14 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-08 20:39:23 [<Transaction Controller>] info: Initiating transfer of 5 BTC from user ID 4 to wallet wallet-1
+2025-03-08 20:39:23 [<Transaction Service>] info: Transferring 5 BTC from wallet 4 to wallet 1
+2025-03-08 20:39:23 [<Transaction Service>] info: Generated transaction signature: 83f697942858d2f5f346442ebc89f73675d6f21c42d4c4ecfba08a8b8c94caeb3bcda0985efc7cb03fc06c591228b4ab1e75833ccf7c646d6ecf4116687e00aec72c91ef50f693d6e60bf6922d8d89fe83a918ab8fdfaddc2f3b6970e380c534a59139646abb96b48264121a09c4972923c6a71610ec58b2b08217cd64356babecfa8c373620e09e384694b805318f4aec1b5f02f2158f4f50c34cdb30cc1bebb926e2d459e6f6473fdd33cba1cef9d0b0b1cd2e28c24d9f6ec9a3fcfaaa36429dae9a4b5a2be8fedab4b644c04ffe291de20578e2c89da94aa18718cbcd9fd7a93c21a1ea4b2b111a45d15b152c882fe040bb7a0c65b5a6e85494b2454e6b69
+2025-03-08 20:39:33 [<Auth Service>] info: User logged in: orentest
+2025-03-08 20:39:33 [<Auth Controller>] info: User logged in: orentest
+2025-03-08 20:39:33 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:39:33 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:39:33 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:39:36 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:39:36 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:39:36 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:39:36 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:39:42 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:39:42 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:39:42 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:39:42 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:39:44 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:39:44 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:39:44 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-08 20:39:44 [<User Service>] info: Fetching user by ID: 1
+2025-03-08 20:39:44 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-08 20:39:44 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-09 18:13:11 [<DataSource>] info: Connected to MySQL server at localhost:3306
+2025-03-09 18:13:11 [<DataSource>] info: Database 'fireblocks' already exists.
+2025-03-09 18:13:12 [<DataSource>] info: Data Source has been initialized successfully!
+2025-03-09 18:29:27 [<Auth Service>] info: User logged in: orentest
+2025-03-09 18:29:27 [<Auth Controller>] info: User logged in: orentest
+2025-03-09 18:29:45 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 18:29:45 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 18:29:45 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-09 18:29:49 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 18:29:49 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 18:29:49 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 18:29:49 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 18:49:25 [<Auth Service>] info: User logged in: orentest
+2025-03-09 18:49:25 [<Auth Controller>] info: User logged in: orentest
+2025-03-09 18:52:09 [<Auth Service>] info: User logged in: orentest
+2025-03-09 18:52:09 [<Auth Controller>] info: User logged in: orentest
+2025-03-09 18:52:25 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 18:52:25 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 18:52:25 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 18:52:25 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 19:06:09 [<Auth Service>] info: User logged in: orentest
+2025-03-09 19:06:09 [<Auth Controller>] info: User logged in: orentest
+2025-03-09 19:07:20 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 19:07:20 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 19:07:20 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-09 19:08:00 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 19:08:00 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 19:08:00 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-09 19:08:05 [<Auth Service>] info: User logged in: orentest
+2025-03-09 19:08:05 [<Auth Controller>] info: User logged in: orentest
+2025-03-09 19:08:06 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 19:08:06 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 19:08:06 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 19:08:06 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 19:08:06 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-09 19:08:06 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-09 19:08:14 [<Auth Service>] info: User logged in: lihi
+2025-03-09 19:08:14 [<Auth Controller>] info: User logged in: lihi
+2025-03-09 19:08:14 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:08:14 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:08:14 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:08:14 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:08:14 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:08:14 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:08:20 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:08:20 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:08:20 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:08:20 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:09:05 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:09:05 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:09:05 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:09:18 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:09:18 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:09:18 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:09:19 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:09:19 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:09:19 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:09:20 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:09:20 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:09:20 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:10:32 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:10:32 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:10:32 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:10:35 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:10:35 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:10:35 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:10:37 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:10:37 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:10:37 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:10:45 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:10:45 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:10:45 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:10:47 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:10:47 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:10:47 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:10:48 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:10:48 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:10:48 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:10:53 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:10:53 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:10:53 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:10:57 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:10:57 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:10:57 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:11:00 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:11:00 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:11:00 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:11:01 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:11:01 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:11:05 [<Auth Service>] info: User logged in: lihi
+2025-03-09 19:11:05 [<Auth Controller>] info: User logged in: lihi
+2025-03-09 19:11:05 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:11:05 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:11:05 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:11:05 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:11:05 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:11:05 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:11:08 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:11:08 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:11:18 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:11:18 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:11:34 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:11:34 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:11:39 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:11:39 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:11:42 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:11:42 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:11:48 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:11:48 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:12:05 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:12:05 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:12:07 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:12:07 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:12:35 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:12:35 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:12:37 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:12:37 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:12:45 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:12:45 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:12:47 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:12:47 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:12:52 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:12:52 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:12:56 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:12:56 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:12:57 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:12:57 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:13:11 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:13:11 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:13:22 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:13:22 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:13:32 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:13:32 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:13:40 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:13:40 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:13:43 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:13:43 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:13:45 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:13:45 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:14:50 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:14:50 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:15:14 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:15:14 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:15:23 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:15:23 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:15:28 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:15:28 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:15:28 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:15:35 [<Transaction Controller>] info: Initiating transfer of 2 BTC from user ID 4 to wallet wallet-1
+2025-03-09 19:15:35 [<Transaction Service>] info: Transferring 2 BTC from wallet 4 to wallet 1
+2025-03-09 19:15:35 [<Transaction Service>] info: Generated transaction signature: 24dcd512076bd8d083a01487e3f5f6091185634a512f13496f5ebc6d23c1abf1db80973fb18ffc32cc76ed31069982718df3176baa80308cf81ed5d1e82fc10f69d1f29b99462c1ba2bf0fc815d5ab2bcb229012ab0b729d9dffd5daaf06810348f58084e9e5a517a71650c65eb3a2eb194da1947f96df4b72da19f1b99479dd0e269ed8bdb48d0dc37a989691f0f5c734f2370fc4f4045e7c287452d47b8907bb1b433f0d84a7ab27f22d4e644a40cad08dacc5cda7074f74ea7e198cc965446ac5b6b4073b5bccf2dd3334f72736979888488d9d14ce89e2225123f10f14001200fddc1a9be930add8397114136d653ecdc4f37e3698b957c8e21a6472bac8
+2025-03-09 19:16:00 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:16:00 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:16:00 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:16:18 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:16:18 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:16:18 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:16:22 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:16:22 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:16:22 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:16:24 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:16:24 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:16:24 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:16:47 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:16:47 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:16:47 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:16:49 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:16:49 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:16:49 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:22:49 [<Auth Service>] info: User logged in: lihi
+2025-03-09 19:22:49 [<Auth Controller>] info: User logged in: lihi
+2025-03-09 19:22:50 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:22:50 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:22:50 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:22:50 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:22:50 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:22:50 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:22:55 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:22:55 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:23:03 [<Auth Service>] info: User logged in: orentest
+2025-03-09 19:23:03 [<Auth Controller>] info: User logged in: orentest
+2025-03-09 19:23:03 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 19:23:03 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 19:23:03 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 19:23:03 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 19:23:03 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-09 19:23:03 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-09 19:23:08 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 19:23:08 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 19:23:15 [<Auth Service>] info: User logged in: lihi
+2025-03-09 19:23:15 [<Auth Controller>] info: User logged in: lihi
+2025-03-09 19:23:15 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:23:15 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:23:15 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:23:15 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:23:15 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:23:15 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:23:22 [<Transaction Controller>] info: Initiating transfer of 4 BTC from user ID 4 to wallet wallet-1
+2025-03-09 19:23:22 [<Transaction Service>] info: Transferring 4 BTC from wallet 4 to wallet 1
+2025-03-09 19:23:22 [<Transaction Service>] info: Generated transaction signature: 6b1880e1bfeb1b95215bded47205cee851d90c2b37482c5f40611f5cc23421f51f61dcfe36766f5a453538028ee680b0908728bc099cd2faac3443d12ba908a900528fef319846a533a2dbd05ccc9a80ba812578ff146b6c97b0a1d3f7e0cb8697b997177d4d2ed34516f65ff79fe8af8c52e5cd17d153e5347f735e0bb1a45806e78ddad7716d2194ea87c3a188c8339eb664638b3235fa6f453a79a960acee23f231a2dca13ceb63b7e5470bc0e78d06438f34613e5dae3ddda0ac28739b8aa9d0f1ed429d15718642b77d83ebf6a0093ea17dd20ee651359add86fc02795ed2c3583d066cca8a46d143f47508562d93ab6fee5365eed053bf53fab850a37d
+2025-03-09 19:23:32 [<Auth Service>] info: User logged in: orentest
+2025-03-09 19:23:32 [<Auth Controller>] info: User logged in: orentest
+2025-03-09 19:23:32 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 19:23:32 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 19:23:32 [<User Controller>] info: Fetching profile for user ID: 1
+2025-03-09 19:23:32 [<User Service>] info: Fetching user by ID: 1
+2025-03-09 19:23:32 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-09 19:23:32 [<Transaction Service>] info: Fetching transactions for wallet ID: 1
+2025-03-09 19:24:10 [<Auth Service>] info: User logged in: orentest1
+2025-03-09 19:24:10 [<Auth Controller>] info: User logged in: orentest1
+2025-03-09 19:24:10 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-09 19:24:10 [<User Service>] info: Fetching user by ID: 2
+2025-03-09 19:24:10 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-09 19:24:10 [<User Service>] info: Fetching user by ID: 2
+2025-03-09 19:24:10 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-09 19:24:10 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-09 19:24:14 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-09 19:24:14 [<User Service>] info: Fetching user by ID: 2
+2025-03-09 19:24:21 [<Auth Service>] info: User logged in: lihi
+2025-03-09 19:24:21 [<Auth Controller>] info: User logged in: lihi
+2025-03-09 19:24:21 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:24:21 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:24:21 [<User Controller>] info: Fetching profile for user ID: 4
+2025-03-09 19:24:21 [<User Service>] info: Fetching user by ID: 4
+2025-03-09 19:24:21 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:24:21 [<Transaction Service>] info: Fetching transactions for wallet ID: 4
+2025-03-09 19:24:29 [<Transaction Controller>] info: Initiating transfer of 5 BTC from user ID 4 to wallet wallet-2
+2025-03-09 19:24:29 [<Transaction Service>] info: Transferring 5 BTC from wallet 4 to wallet 2
+2025-03-09 19:24:29 [<Transaction Service>] info: Generated transaction signature: 44e10bc2a46b82d50e0aaff4f229618838442765ff275d9f4d643ce4542a4c263faf36a1795c1b7dcdfe4650a9330feeb757d63318d138956c4c4e224138043bf2dfa34df178bd29703fe82e9c81d301e7ebc467c86e823393e6a1caaca7501e1468a40476b70e6feb850cf835ba383b244b7e2300b58962ae1f5887a1139378d82f53e96a93a809c281f5075b07444150d65dcf52d7e1a7e944f3a4fc71d70f46c525fb5bf5e45d958cf34509a487b93e99f17e941b5a3e26835b2a5b7ad27d46c37e95b9473980190adbd0778502afb439a3122d9939ddec38096fa5e5001d6107acfe743054dba2e4e286558e1c40d6d317b546db63ca1b7d114e3cc79f80
+2025-03-09 19:24:38 [<Auth Service>] info: User logged in: orentest1
+2025-03-09 19:24:38 [<Auth Controller>] info: User logged in: orentest1
+2025-03-09 19:24:38 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-09 19:24:38 [<User Service>] info: Fetching user by ID: 2
+2025-03-09 19:24:39 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-09 19:24:39 [<User Service>] info: Fetching user by ID: 2
+2025-03-09 19:24:39 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-09 19:24:39 [<Transaction Service>] info: Fetching transactions for wallet ID: 2
+2025-03-09 19:24:49 [<User Controller>] info: Fetching profile for user ID: 2
+2025-03-09 19:24:49 [<User Service>] info: Fetching user by ID: 2
